@@ -1,0 +1,28 @@
+[submodule "prismarine-world"]
+	path = prismarine-world
+	url = git@github.com:SeanMcCord/prismarine-world
+	branch = master
+[submodule "prismarine-viewer"]
+	path = prismarine-viewer
+	url = git@github.com:SeanMcCord/prismarine-viewer
+	branch = master
+[submodule "mineflayer-pathfinder"]
+	path = mineflayer-pathfinder
+	url = git@github.com:SeanMcCord/mineflayer-pathfinder
+	branch = master
+[submodule "mineflayer"]
+	path = mineflayer
+	url = git@github.com:SeanMcCord/mineflayer
+	branch = master
+[submodule "mineflayer-tool"]
+	path = mineflayer-tool
+	url = git@github.com:SeanMcCord/mineflayer-tool
+	branch = master
+[submodule "mineflayer-collectblock"]
+	path = mineflayer-collectblock
+	url = git@github.com:SeanMcCord/mineflayer-collectblock
+	branch = master
+[submodule "TreeToCreditsMinecraftControl"]
+	path = TreeToCreditsMinecraftControl
+	url = git@github.com:SeanMcCord/TreeToCreditsMinecraftControl
+	branch = main
