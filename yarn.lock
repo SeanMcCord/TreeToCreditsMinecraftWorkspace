@@ -4895,7 +4895,7 @@ lodash.truncate@^4.4.2:
   resolved "https://registry.yarnpkg.com/lodash.truncate/-/lodash.truncate-4.4.2.tgz#5a350da0b1113b837ecfffd5812cbe58d6eae193"
   integrity sha1-WjUNoLERO4N+z//VgSy+WNbq4ZM=
 
-lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.21, lodash@^4.7.0:
+lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.7.0:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
@@ -5114,6 +5114,14 @@ minecrafthawkeye@^1.2.5:
   dependencies:
     mineflayer "^3.6.0"
     prismarine-world "^3.6.0"
+
+mineflayer-auto-eat@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/mineflayer-auto-eat/-/mineflayer-auto-eat-2.0.0.tgz#e05b4413dad6111747a373adea3c3c5619409fce"
+  integrity sha512-PRH0LX0lf9O0+Xfwf2bej0v4bKVQypCeYhLcj+xkKhvJwg/vYbMHWPE8dxIiyuTzoTnJdX0EsqzTEondguesXg==
+  dependencies:
+    lodash "^4.17.20"
+    minecraft-data "^2.70.2"
 
 "mineflayer-pathfinder@file:./mineflayer-pathfinder":
   version "1.6.1"
