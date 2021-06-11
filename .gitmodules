@@ -26,3 +26,7 @@
 	path = TreeToCreditsMinecraftControl
 	url = git@github.com:SeanMcCord/TreeToCreditsMinecraftControl
 	branch = main
+[submodule "mineflayer-pvp"]
+	path = mineflayer-pvp
+	url = git@github.com:SeanMcCord/mineflayer-pvp
+	branch = master
