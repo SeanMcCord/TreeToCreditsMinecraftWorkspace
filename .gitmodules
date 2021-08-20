@@ -30,3 +30,7 @@
 	path = mineflayer-pvp
 	url = git@github.com:SeanMcCord/mineflayer-pvp
 	branch = master
+[submodule "prismarine-physics"]
+	path = prismarine-physics
+	url = git@github.com:SeanMcCord/prismarine-physics
+	branch = master

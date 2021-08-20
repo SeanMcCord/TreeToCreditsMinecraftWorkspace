@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "clean": "git submodule foreach rm -rf node_modules && rm -rf node_modules",
-    "build": "yarn workspace mineflayer-tool prepare && yarn workspace mineflayer-collectblock build && yarn workspace prismarine-viewer prepare && yarn workspace mineflayer-pvp prepare && yarn workspace mineflayer-tool prepare"
+    "build": "yarn workspace mineflayer-tool prepare && yarn workspace mineflayer-collectblock build && yarn workspace prismarine-viewer prepare && yarn workspace mineflayer-pvp prepare && yarn workspace mineflayer-tool prepare && yarn workspace TreeToCreditsMinecraftControl build"
   },
   "workspaces": [
     "TreeToCreditsMinecraftControl",
@@ -12,6 +12,7 @@
     "mineflayer-pvp",
     "mineflayer-pathfinder",
     "prismarine-viewer",
-    "prismarine-world"
+    "prismarine-world",
+    "prismarine-physics"
   ]
 }
