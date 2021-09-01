@@ -34,3 +34,15 @@
 	path = prismarine-physics
 	url = git@github.com:SeanMcCord/prismarine-physics
 	branch = master
+[submodule "prismarine-chunk"]
+	path = prismarine-chunk
+	url = git@github.com:SeanMcCord/prismarine-chunk
+	branch = master
+[submodule "prismarine-biome"]
+	path = prismarine-biome
+	url = git@github.com:SeanMcCord/prismarine-biome
+	branch = master
+[submodule "prismarine-block"]
+	path = prismarine-block
+	url = git@github.com:SeanMcCord/prismarine-block
+	branch = master

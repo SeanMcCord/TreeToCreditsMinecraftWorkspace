@@ -13,6 +13,9 @@
     "mineflayer-pathfinder",
     "prismarine-viewer",
     "prismarine-world",
-    "prismarine-physics"
+    "prismarine-physics",
+    "prismarine-chunk",
+    "prismarine-biome",
+    "prismarine-block"
   ]
 }
