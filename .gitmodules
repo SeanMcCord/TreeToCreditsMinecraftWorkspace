@@ -45,4 +45,4 @@
 [submodule "prismarine-block"]
 	path = prismarine-block
 	url = git@github.com:SeanMcCord/prismarine-block
-	branch = master
+	branch = simple_block_testing
